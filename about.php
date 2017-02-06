@@ -6,7 +6,7 @@
 	</head>
 	<body>
 <?php
-$userName = 'Алекс';
+$userName = 'Александр';
 $age = '33';
 $email = 'sashamexona@yandex.ru';
 $city = 'Екатеринбург';
