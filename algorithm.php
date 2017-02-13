@@ -22,5 +22,6 @@ while ($var1 <=  $x)
 	{
 		echo 'Задуманное число входит в числовой ряд';
 	} 
+	else ($var3 = $var1 || $var1 = $var1 + $var2 || $var2 = $var3);
 $var1++;
  }
